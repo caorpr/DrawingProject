@@ -24,3 +24,12 @@ public class DrawingFrame extends JFrame
 		this.setVisible(true);
 	}
 }
+
+
+
+// int height = getHeight()/ myData.length();
+// printComponent
+//x = 0;
+//y = hight * index
+//width = myData[index]
+//
