@@ -48,6 +48,9 @@ public class ShapePanel extends JPanel
 		int yPosition = (int)(Math.random() * 1000);
 		int width = (int)(Math.random() * 2000);
 		int height = (int)(Math.random() * 1000);
+		
+		Polygon myEllipse = new Polygon();
+		polygonList.add(myEllipse);
 	}
 	
 	public void addPolygon()
